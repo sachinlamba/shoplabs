@@ -19,6 +19,10 @@ class App extends Component {
             <li className="list-sent">Register me as ****@***.*** with password *****</li>
             <li className="list-sent">login me by  ****@***.*** and ********</li>
             <li className="list-sent">logout me</li>
+            <li className="list-sent">View product list</li>
+            <li className="list-sent">open product second | details of first product</li>
+            <li className="list-sent">if in 'product list', say like - add five of fifth product to my cart</li>
+            <li className="list-sent">if in 'product details', say like - add 5 of these to my cart</li>
           </ul>
         </div>
       </div>
